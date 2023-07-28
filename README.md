@@ -32,6 +32,9 @@
 ## About Buster
 
 ## Join the Network
+`curl http://theblockbuster.org/download/config --output config.json`
+`curl http://theblockbuster.org/download/genesis --output genesis.json`
+`curl http://theblockbuster.org/download/data --output data.zip`
 
 ## Contributing
 
